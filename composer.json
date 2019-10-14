@@ -3,7 +3,8 @@
     "description": "Validation of disposable e-mails for Laravel 6",
     "type": "package",
     "require": {
-        "illuminate/support": "6.0.*"
+        "illuminate/support": "6.0.*",
+        "nesbot/carbon": "1.24.*"
     },
     "license": "MIT",
     "authors": [
